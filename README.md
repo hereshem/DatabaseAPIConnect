@@ -9,6 +9,6 @@ The API details are available in http://pi.hemshrestha.com.np/test/contacto.php
 
 Server API and other codes are derived from https://github.com/hereshem/contacto
 
-Prepared for : One Day Workshop organized by Robotics Association of Nepal
-Dated : 8th March 2015
-By : Hem Shrestha
+* Prepared for : One Day Workshop organized by Robotics Association of Nepal
+* Dated : 8th March 2015
+* By : Hem Shrestha
